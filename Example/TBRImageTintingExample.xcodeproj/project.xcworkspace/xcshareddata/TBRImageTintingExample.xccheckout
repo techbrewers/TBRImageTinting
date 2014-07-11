@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09500CF4-4B0B-4059-BF0F-6CBD06820CF0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TBRImageTintingExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>352EB056-CD73-49F4-8E31-30F5A7CC0A91</key>
+		<string>https://github.com/techbrewers/TBRImageTinting.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/TBRImageTintingExample/TBRImageTintingExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>352EB056-CD73-49F4-8E31-30F5A7CC0A91</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/techbrewers/TBRImageTinting.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>352EB056-CD73-49F4-8E31-30F5A7CC0A91</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>352EB056-CD73-49F4-8E31-30F5A7CC0A91</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TBRImageTinting</string>
+		</dict>
+	</array>
+</dict>
+</plist>
